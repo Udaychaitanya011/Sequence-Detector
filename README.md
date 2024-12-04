@@ -1,4 +1,4 @@
-# Sequence-Detector
+# EXP-6 Sequence-Detector
 
 **Aim:**
 a
